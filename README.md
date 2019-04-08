@@ -37,7 +37,7 @@ test.html - test file for rules
 | BeepboopSecretKey | [0-9a-f]{32}-[0-9]{9} |
 | MashapeSecretkey | [0-9a-zA-Z]{50} |
 | GitlabSecretKey | [0-9a-zA-Z]{20} |
-| HerokuapiSecretKey: [0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12} |
+| HerokuapiSecretKey | [0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12} |
 | MattermostSecretKey | [0-9a-z]{26} |
 | RecaptchaSecretKey | 6L[0-9a-zA-Z-_]{38} |
 
