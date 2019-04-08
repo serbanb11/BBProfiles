@@ -13,6 +13,7 @@ test.html - test file for rules
 ## Profiles
 ### Passive Scanner
 | API key | RegEx |
+| ------  | ----- |
 | AmazonAwsSecretKey | [0-9a-zA-Z/+]{40} |
 | AWSAPIID | AKIA[0-9A-Z]{16}<br>AAGA[0-9A-Z]{16}<br>ACCA[0-9A-Z]{16}<br>AGPA[0-9A-Z]{16}<br>AIDA[0-9A-Z]{16}<br>AIPA[0-9A-Z]{16}<br>ANPA[0-9A-Z]{16}<br>ANVA[0-9A-Z]{16}<br>APKA[0-9A-Z]{16}<br>AROA[0-9A-Z]{16}<br>ASCA[0-9A-Z]{16}<br>ASIA[0-9A-Z]{16} |
 | BitlyClientID | [0-9a-zA-Z_]{5,31} |
